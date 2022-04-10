@@ -1,4 +1,4 @@
-## 2Dcavityflow-using-colocated_grid
+## 2Dcavityflow-using-colocatedgrid
 
 ・grid type : colocated grid  
 ・soliving type : smac method  
