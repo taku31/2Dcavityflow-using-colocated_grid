@@ -6,7 +6,7 @@
 
 ## demo
 ・Velocity vector  
-![](img/vec.gif)  
+![](img/vec_re500.gif)  
 
 ## Author
 T.Nakabayashi
