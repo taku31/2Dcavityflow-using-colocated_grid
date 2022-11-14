@@ -9,4 +9,4 @@
 ![](img/vec_re500.gif)  
 
 ## Author
-T.Nakabayashi
+naka
